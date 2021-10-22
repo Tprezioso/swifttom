@@ -10,7 +10,9 @@ This is some text for a test in my first post
 ## Header Two
 
 This is some more text in a test post.
+
 Code and be highlighted like `this`.
+
 Font can be *italic* or **BOLD**
 
 HyperLinks look like this [Github Help](https://help.github.com/)

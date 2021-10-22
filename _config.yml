@@ -3,8 +3,10 @@ title: Swift Tom
 author:
   name: Thomas Prezioso
   email: tommyprezioso@gmail.com
-  twitter: tommyprezioso
 description: "Learning the Swift Programming Language"
+social-network-links:
+  twitter: tommyprezioso
+  github: Tprezioso
 
 # Build settings
 remote_theme: jekyll/minima

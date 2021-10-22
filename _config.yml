@@ -4,12 +4,10 @@ author:
   name: Thomas Prezioso
   email: tommyprezioso@gmail.com
 description: "Learning the Swift Programming Language"
-social-network-links:
-  twitter: tommyprezioso
-  github: Tprezioso
-share-links-active:
-  twitter: true
-  github: true
+minima:
+  social-network-links:
+    twitter: tommyprezioso
+    github: Tprezioso
 
 # Build settings
 remote_theme: jekyll/minima

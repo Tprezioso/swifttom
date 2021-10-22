@@ -8,6 +8,6 @@ description: "Learning the Swift Programming Language"
 # Build settings
 remote_theme: jekyll/minima
 minima:
-  social-network-links:
+  social_links:
     twitter: tommyprezioso
     github: Tprezioso

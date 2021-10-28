@@ -1,14 +1,10 @@
 # Site settings
 title: Swift Tom
-author:
-  name: Thomas Prezioso
-  email: tommyprezioso@gmail.com
+author: Thomas Prezioso
+email: tommyprezioso@gmail.com
 description: "Learning the Swift Programming Language"
 
 # Build settings
 remote_theme: StartBootstrap/startbootstrap-clean-blog-jekyll
-minima:
-  skin: dark
-  social_links:
-    twitter: tommyprezioso
-    github: Tprezioso
+twitter_username: tommyprezioso
+github_username: Tprezioso

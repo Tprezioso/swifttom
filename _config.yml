@@ -6,6 +6,6 @@ description: "Learning the Swift Programming Language"
 baseurl: "/swifttom"
 
 # Build settings
-remote_theme: StartBootstrap/startbootstrap-clean-blog-jekyll
+remote_theme: broccolini/swiss
 twitter_username: tommyprezioso
 github_username: Tprezioso

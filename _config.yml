@@ -5,6 +5,6 @@ email: tommyprezioso@gmail.com
 description: "Learning the Swift Programming Language"
 
 # Build settings
-remote_theme: StartBootstrap/startbootstrap-clean-blog-jekyll
+remote_theme: jekyll-sleek
 twitter_username: tommyprezioso
 github_username: Tprezioso

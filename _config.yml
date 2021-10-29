@@ -3,6 +3,7 @@ title: Swift Tom
 author: Thomas Prezioso
 email: tommyprezioso@gmail.com
 description: "Learning the Swift Programming Language"
+baseurl: "/swifttom"
 
 # Build settings
 remote_theme: StartBootstrap/startbootstrap-clean-blog-jekyll
